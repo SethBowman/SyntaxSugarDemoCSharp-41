@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxSugarDemoCSharp-41", "SyntaxSugarDemoCSharp-41\SyntaxSugarDemoCSharp-41.csproj", "{B7F05150-E3E4-43BA-B20B-A7894F77856B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F05150-E3E4-43BA-B20B-A7894F77856B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F05150-E3E4-43BA-B20B-A7894F77856B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F05150-E3E4-43BA-B20B-A7894F77856B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F05150-E3E4-43BA-B20B-A7894F77856B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3449D1F6-4B6C-4EB0-9EE1-078051EDF0F4}
+	EndGlobalSection
+EndGlobal
